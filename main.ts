@@ -8,7 +8,7 @@ while (true) {
     light.setPixelColor(2, light.rgb(255, 255, 0))
     pause(400)
     light.clear()
-    light.setPixelColor(3, light.rgb(0, 255, 0))
+    light.setPixelColor(3, light.rgb(34, 139, 34))
     pause(400)
     light.clear()
     light.setPixelColor(4, light.rgb(0, 128, 0))
