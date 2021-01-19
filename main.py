@@ -1,5 +1,5 @@
 while True:
-    if input.sound_level() > 540:
+    if input.sound_level() > 54:
         light.set_pixel_color(0, light.rgb(255, 0, 0))
         pause(400)
         light.clear()
