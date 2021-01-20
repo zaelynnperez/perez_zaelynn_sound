@@ -1,5 +1,5 @@
 while (true) {
-    if (input.soundLevel() > 240) {
+    if (input.soundLevel() > 540) {
         light.setPixelColor(0, light.rgb(255, 0, 0))
         pause(400)
         light.clear()
